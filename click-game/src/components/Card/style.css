@@ -1,5 +1,5 @@
 .gameCard {
-    height: 190px;
+    height: 240px;
     width: 190px;
     margin-top: 6.5px;
     margin-bottom: 6.5px;
@@ -26,7 +26,7 @@
 
 @media only screen and (max-width: 1199px) {
     .gameCard {
-    height: 150px;
+    height: 200px;
     width: 150px;
     }
 }
