@@ -1,3 +1,4 @@
 body {
-    background: url(/click-game/public/assets/14406.jpg) no-repeat left top fixed;
+    background: url(%PUBLIC_URL%/14406.jpg) no-repeat left top fixed;
+    /* background: #000; */
 }
