@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 
-import Nav from './containers/Navbar';
+import Nav from './Containers/Navbar';
 import Instructions from './components/Instructions';
 import Card from './components/Card';
 
