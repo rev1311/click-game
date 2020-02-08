@@ -2,61 +2,61 @@
     {
       "id": 1,
       "name": "Ruehin",
-      "image": "./public/assets/10010000 - Ruehin.png"
+      "image": "../public/assets/10010000 - Ruehin.png"
     },
     {
       "id": 2,
       "name": "Tactical Advantage",
-      "image": "./public/assets/10060000 - Tactical Advantage.png"
+      "image": "../public/assets/10060000 - Tactical Advantage.png"
     },
     {
       "id": 3,
       "name": "Geralt Igni",
-      "image": "./public/assets/10080000 - Geralt Igni.png"
+      "image": "../public/assets/10080000 - Geralt Igni.png"
     },
     {
       "id": 4,
       "name": "Villentretenmerth",
-      "image": "./public/assets/10130000 - Villentretenmerth.png"
+      "image": "../public/assets/10130000 - Villentretenmerth.png"
     },
     {
       "id": 5,
       "name": "Prize-Winning Cow",
-      "image": "./public/assets/10280000 - Prize-Winning Cow.png"
+      "image": "../public/assets/10280000 - Prize-Winning Cow.png"
     },
     {
       "id": 6,
       "name": "Ragh Nar Roog",
-      "image": "./public/assets/10400000 - Ragh Nar Roog.png"
+      "image": "../public/assets/10400000 - Ragh Nar Roog.png"
     },
     {
       "id": 7,
       "name": "Alzur_s Double-Cross",
-      "image": "./public/assets/10500000 - Alzur_s Double-Cross.png"
+      "image": "../public/assets/10500000 - Alzur_s Double-Cross.png"
     },
     {
       "id": 8,
       "name": "Hemdall",
-      "image": "./public/assets/12760000 - Hemdall.png"
+      "image": "../public/assets/12760000 - Hemdall.png"
     },
     {
       "id": 9,
       "name": "Spectral Whale",
-      "image": "./public/assets/12770000 - Spectral Whale.png"
+      "image": "../public/assets/12770000 - Spectral Whale.png"
     },
     {
       "id": 10,
       "name": "Vilgefortz",
-      "image": "./public/assets/12890000 - Vilgefortz.png"
+      "image": "../public/assets/12890000 - Vilgefortz.png"
     },
     {
       "id": 11,
       "name": "Summoning Circle",
-      "image": "./public/assets/13330000 - Summoning Circle.png"
+      "image": "../public/assets/13330000 - Summoning Circle.png"
     },
     {
       "id": 12,
       "name": "Kambi",
-      "image": "./public/assets/12350000 - Kambi.png"
+      "image": "../public/assets/12350000 - Kambi.png"
     }
 ]
