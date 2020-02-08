@@ -1,4 +1,4 @@
 body {
-    background: url(%PUBLIC_URL%/14406.jpg) no-repeat left top fixed;
+    background-image: url(/assets/14406.jpg) no-repeat left top fixed;
     /* background: #000; */
 }
