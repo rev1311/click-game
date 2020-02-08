@@ -5,7 +5,7 @@ import Navbar from 'react-bootstrap/Navbar';
 function Nav(props) {
   return (
     <Navbar bg="dark" variant="dark" fixed="top">
-      <Navbar.Brand>Clicky Game</Navbar.Brand>
+      <Navbar.Brand>Witcher Click Game</Navbar.Brand>
       <Navbar.Collapse className="justify-content-end">
         <Navbar.Text className="text-light"><h4>{props.feedback}</h4></Navbar.Text>
       </Navbar.Collapse>
