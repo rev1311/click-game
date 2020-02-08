@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Ruehin",
-      "image": "%PUBLIC_URL%/10010000 - Ruehin.png"
+      "image": "./assets/10010000 - Ruehin.png"
     },
     {
       "id": 2,
