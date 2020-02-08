@@ -12,6 +12,7 @@ import cards from './cards.json';
 
 import './App.css'
 
+
 class App extends Component {
   state = {
     score: 0,
