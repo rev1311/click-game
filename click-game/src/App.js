@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 
 import Nav from './Containers/Navbar';
-import Instructions from './components/Instructions';
+// import Instructions from './components/Instructions';
 import Card from './components/Card';
 
 import cards from './cards.json';
