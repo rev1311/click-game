@@ -10,6 +10,8 @@ import Card from './components/Card';
 
 import cards from './cards.json';
 
+import './App.css'
+
 class App extends Component {
   state = {
     score: 0,
@@ -69,8 +71,8 @@ class App extends Component {
           score={this.state.score}
           highScore={this.state.highScore}
           feedback={this.state.feedback} />
-        <Instructions />
-        <Container>
+        {/* <Instructions /> */}
+        <Container className="cont">
           <Row className="justify-content-sm-center">
             <Col xs={10}>
               <Row noGutters={true}>
