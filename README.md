@@ -1,5 +1,5 @@
-# Click Game
-An application built with React that is a memory game where the objective is to click all 12 images without clicking the same image twice. 
+# Witcher-styled Click Game
+A memory game where the objective is to click all 12 images without clicking the same image twice. 
 
 ## Screen Grab 
 
